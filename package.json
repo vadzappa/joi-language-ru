@@ -1,0 +1,19 @@
+{
+  "name": "joi-language-ru",
+  "version": "0.0.2",
+  "description": "Joi Language options for Russian language",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadzappa/joi-language-ru.git"
+  },
+  "author": "Vadzim Zapolski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadzappa/joi-language-ru/issues"
+  },
+  "homepage": "https://github.com/vadzappa/joi-language-ru#readme"
+}
