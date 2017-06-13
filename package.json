@@ -1,6 +1,6 @@
 {
   "name": "joi-language-ru",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Joi Language options for Russian language",
   "main": "index.js",
   "scripts": {
