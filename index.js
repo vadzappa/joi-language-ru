@@ -111,8 +111,8 @@ module.exports = {
 		min: 'должно иметь минимум {{limit}} символов',
 		max: 'должно иметь максимум {{limit}} символов',
 		length: 'должно иметь точно {{limit}} символов',
-		alphanum: 'должно содержать только буквы и цифры',
-		token: 'должно содержать только буквы, цифры и подчеркивания',
+		alphanum: 'должно содержать только буквы латинского алфавита и цифры',
+		token: 'должно содержать только буквы латинского алфавита, цифры и подчеркивания',
 		regex: {
 			base: 'with value "{{!value}}" fails to match the required pattern: {{pattern}}',
 			name: 'with value "{{!value}}" fails to match the {{name}} pattern',
